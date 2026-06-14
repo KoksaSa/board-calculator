@@ -1,6 +1,7 @@
 # Board Calculator
 
-Проект для расчёта каркаса/борта.
+Проект для расчёта досок для каркасного дома.
+https://koksasa.github.io/board-calculator/
 
 ## 🚀 Технологии
 
