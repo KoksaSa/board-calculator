@@ -25,3 +25,8 @@ dist/
 # Logs
 *.log
 npm-debug.log*
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
